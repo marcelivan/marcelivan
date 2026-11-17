@@ -2,17 +2,17 @@
 
 # Marcel Baillargeon
 
-### Systems architect | Revenue operations | Data & automation | AI-enabled operations
+### Revenue Operations Leadership | Cross-Functional Execution | Revenue Systems & Transformation
 
-**I design durable systems that help people make better decisions and do meaningful work with less friction.**
+**I connect revenue strategy, people, processes, data, and technology to improve operational clarity, decision quality, and execution.**
 
-[LinkedIn](https://www.linkedin.com/in/marcel-rev-ops) · [GitHub projects](https://github.com/marcelivan?tab=repositories)
+[Public Revenue Operations portfolio](https://marcelivan.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/marcel-rev-ops) · [GitHub projects](https://github.com/marcelivan?tab=repositories)
 
 </div>
 
 ---
 
-## How I think about systems
+## Revenue Operations leadership approach
 
 Most operational problems do not live inside one application. They live between people, processes, data, decisions, and technology.
 
@@ -20,18 +20,18 @@ My work is to make those relationships visible, understandable, and dependable: 
 
 I approach architecture as a form of stewardship: create the conditions for agency, development, belonging, and choice without turning the system into a source of control.
 
-## Areas of practice
+## Leadership capabilities
 
 | Area | What I work to make possible |
 | --- | --- |
-| **Systems architecture** | Clear boundaries, relationships, ownership, dependencies, and change paths |
-| **Revenue operations** | Connected CRM, marketing, service, lifecycle, and business processes |
-| **Data architecture & governance** | Trusted definitions, lineage, identity, quality, access, and accountable ownership |
-| **Integration & automation** | Reliable APIs, event-driven workflows, orchestration, and useful exception handling |
-| **AI-enabled operations** | Human-directed AI workflows with clear permissions, evidence, review, and recovery |
-| **Operational design** | Observable systems, repeatable practices, maintainable documentation, and independent operators |
+| **Revenue strategy and performance** | Clear lifecycle definitions, decision-ready information, and aligned business priorities |
+| **Cross-functional leadership** | Explicit decision rights, owner alignment, practical handoffs, and coordinated execution |
+| **Operational excellence** | Less friction, maintainable practices, measurable verification, and disciplined simplification |
+| **Revenue systems transformation** | CRM, automation, integration, analytics, and governance serving business workflows |
+| **AI and scalable execution** | Human-directed AI with permissions, validation, recoverability, and sustainable operating costs |
+| **Systems architecture (differentiator)** | Technical depth connecting data, workflows, dependencies, and business decisions |
 
-## A systems view
+## Technical depth: a systems view
 
 I use a layered model to reason about complex operating environments. The specific tools change; the relationships and controls deserve deliberate design.
 
